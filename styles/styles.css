@@ -1,0 +1,142 @@
+*{  
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner{
+ 
+    color: black;
+    text-align: right;
+	font-size: 20px;
+    padding-top: 200px;
+    padding-right: 150px;   
+	
+}
+.ig{
+    margin: 0;
+     background-image: url(/images/banner2.png);
+     background-repeat: no;
+     width: 151s0px;
+     height: 750px;
+    
+    
+}
+
+.btn-1{
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    height: 44px;
+    border-radius: 10px;
+    background: gray;
+    margin: 20px 0;
+    
+    
+
+}
+.a{
+
+    text-decoration:none;
+    
+}
+.btn-1:hover{
+    background-color: yellow;
+}
+.second{
+    margin: 10px 30px;
+    display: flex;
+     
+
+}
+/* .line{
+    font-size: 50px;  
+    color: black;
+    text-align: right;
+	font-size: 20px;
+    padding-right: 150px;
+    padding-left: 10px;
+    
+
+} */
+.sec{
+    margin: 10px 30px;
+}
+.str1{
+    font-size: 150px;  
+    color: black;
+    text-align: left;
+	font-size: 20px;
+    padding-top: 120px;
+    padding-left: 150px;
+    padding-right: 150px;
+   
+}
+.ban{
+    color: black;
+    text-align: center;
+	font-size: 50px;
+    padding-top: 200px;
+    padding-left: 70px;
+    padding-right: 150px; 
+}
+.str2{
+    display: flex;
+    font-size: 150px;  
+    color: black;
+    text-align: left;
+	font-size: 20px;
+    padding-top: 080px;
+    padding-left: 70px;
+    padding-right: 50px;
+    justify-content: space-between;
+    padding-bottom: 150px;
+   
+}
+.str{
+  text-align: center;
+}
+.lg{
+    margin: 40px 50px;
+    padding-top: 200px;
+    background-image: linear-gradient(135deg, orange 60%, cyan);
+    
+}
+.smm{
+    
+    padding-left: 80px;
+    padding-bottom: 40px;
+    text-align: left;
+}
+.btn2{
+    position:relative; 
+    left:150px; 
+    bottom:40px;
+    color: rgb(18, 219, 195);
+    font-weight: 1000;
+    font-size: 30px;
+    border: 0;
+    height: 70px;
+    border-radius: 25px;
+    background: white;
+    margin: 10px 0;
+}
+.btn2:hover{
+    background-color: gray;
+}
+.ssd{
+    margin: 0;
+    text-align: center;
+    background-color: beige;
+    font-size: 30px;
+}
+.foot{
+    margin: 0;
+    color: whitesmoke;
+    text-align: left;
+    padding-top: 70px;
+    
+    padding-left: 120px;
+    background-color: black;
+    font-size: 30px;
+    text-decoration: aliceblue;
+}
